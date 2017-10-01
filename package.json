@@ -1,0 +1,32 @@
+{
+  "name": "react-iframer",
+  "version": "0.0.1",
+  "description": "react component for iframe with message transfer",
+  "main": "lib/index.js",
+  "scripts": {
+    "build": "babel src/ --out-dir lib/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/galensheen/react-iframer.git"
+  },
+  "keywords": [
+    "iframe",
+    "IFrame",
+    "react-iframer"
+  ],
+  "author": "galensheen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/galensheen/react-iframer/issues"
+  },
+  "homepage": "https://github.com/galensheen/react-iframer#readme",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-core": "^6.26.0",
+    "babel-eslint": "^8.0.1",
+    "babel-plugin-transform-decorators-legacy": "^1.3.4",
+    "babel-preset-env": "^1.6.0",
+    "babel-preset-react": "^6.24.1"
+  }
+}
