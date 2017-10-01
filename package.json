@@ -1,6 +1,6 @@
 {
   "name": "react-iframer",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "react component for iframe with message transfer",
   "main": "lib/index.js",
   "scripts": {
