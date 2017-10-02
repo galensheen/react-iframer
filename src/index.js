@@ -1,7 +1,7 @@
 /**
- * Created by GalenSheen on 01/10/2017.
+ * Created by galen on 2017/10/2.
  */
 
-import Child from './child.jsx';
-
-export {Child};
+import iframer from './child';
+import IFramer from './Parent';
+export {IFramer, iframer};
